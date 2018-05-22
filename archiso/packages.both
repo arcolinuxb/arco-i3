@@ -218,7 +218,7 @@ poppler-glib
 atom
 catfish
 chromium
-#compton
+compton
 darktable
 dmenu
 evolution
@@ -234,7 +234,7 @@ guvcview
 hardinfo
 imagemagick
 inkscape
-libreoffice-fresh
+#libreoffice-fresh
 meld
 nitrogen
 numlockx
@@ -249,7 +249,7 @@ vlc
 zoom
 
 #conky
-jq
+#jq
 lm_sensors
 
 #cursors
@@ -271,8 +271,8 @@ ttf-roboto
 ttf-ubuntu-font-family
 
 #i3wm
-#i3status
-#i3blocks
+i3status
+i3blocks
 
 #icons
 arc-icon-theme
@@ -288,7 +288,7 @@ lightdm-gtk-greeter-settings
 slim
 
 #lx-applications
-#lxappearance-obconf
+lxappearance
 #lxmenu-data
 #lxrandr
 
@@ -303,14 +303,14 @@ adapta-gtk-theme
 arc-gtk-theme
 
 #utilities
-#arandr
+arandr
 asciinema
 bash-completion
 baobab
 catfish
 cmatrix
 cool-retro-term
-dconf-editor
+#dconf-editor
 dialog
 dmidecode
 evince
@@ -322,8 +322,8 @@ glances
 gnome-disk-utility
 gnome-keyring
 gnome-screenshot
-gnome-software
-gnome-software-packagekit-plugin
+#gnome-software
+#gnome-software-packagekit-plugin
 gparted
 gpick
 gtop
@@ -340,11 +340,11 @@ kpmcore
 libmtp
 laptop-detect
 lsb-release
-#lxrandr
+lxrandr
 mlocate
 nomacs
 p7zip
-plank
+#plank
 playerctl
 polkit
 polkit-gnome
@@ -387,10 +387,10 @@ zsh-completions
 zsh-syntax-highlighting
 
 #xfce4
-gtk-xfce-engine
-xfce4
+#gtk-xfce-engine
+#xfce4
 #mousepad
-xfce4-goodies
+#xfce4-goodies
 
 #############################
 #arcolinux_repo_iso 3th party
@@ -411,7 +411,7 @@ ttf-font-awesome
 ttf-ms-fonts
 
 #i3
-#i3-gaps-next-git
+i3-gaps-next-git
 
 #icons
 faba-icon-theme
@@ -442,7 +442,7 @@ mkinitcpio-openswap
 
 #utilities
 aurvote-git
-conky-lua-archers
+#conky-lua-archers
 downgrade
 font-manager
 glxinfo
@@ -450,9 +450,9 @@ google-talkplugin
 grub-customizer
 hardcode-fixer-git
 inxi
-menulibre
+#menulibre
 mintstick-git
-mugshot
+#mugshot
 neofetch
 oh-my-zsh-git
 oomox
@@ -473,7 +473,7 @@ yad
 yaourt
 
 #xfce4
-xfpanel-switch
+#xfpanel-switch
 
 #############################
 #arcolinux_repo for arcolinux
@@ -482,13 +482,13 @@ arcolinux-arc-themes-git
 #arcolinux-awesome-git
 arcolinux-bin-git
 #arcolinux-bspwm-git
-arcolinux-common-git
+#arcolinux-common-git
 arcolinux-config-git
-arcolinux-conky-collection-git
+#arcolinux-conky-collection-git
 #arcolinux-docs-git
-arcolinux-faces-git
+#arcolinux-faces-git
 arcolinux-geany-git
-#arcolinux-i3wm-git
+arcolinux-i3wm-git
 arcolinux-keyring
 arcolinux-local-git
 arcolinux-neofetch-git
@@ -498,10 +498,10 @@ arcolinux-nitrogen-git
 #arcolinux-obmenu-generator-git
 #arcolinux-openbox-configs-git
 #arcolinux-openbox-themes-git
-arcolinux-pipemenus-git
-arcolinux-plank-git
-arcolinux-plank-themes-git
-#arcolinux-polybar-git
+#arcolinux-pipemenus-git
+#arcolinux-plank-git
+#arcolinux-plank-themes-git
+arcolinux-polybar-git
 arcolinux-rofi-git
 arcolinux-rofi-themes-git
 arcolinux-root-git
