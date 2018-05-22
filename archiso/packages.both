@@ -288,7 +288,7 @@ lightdm-gtk-greeter-settings
 slim
 
 #lx-applications
-lxappearance
+#lxappearance-obconf
 #lxmenu-data
 #lxrandr
 
@@ -523,3 +523,12 @@ libc++experimental
 #Calamares installer
 calamares
 boost-libs
+
+#Missing applications if xfce is not installed
+xfce4-settings
+xfce4-taskmanager
+xfce4-power-manager
+xfce4-clipman-plugin
+xfce4-screenshooter
+xfce4-appfinder
+lxappearance
