@@ -14,8 +14,8 @@
 
 #Setting variables
 #Let us change the name"
-#First letter of desktop capital
-desktop="I3"
+#First letter of desktop small
+desktop="i3"
 githuburl="https://raw.githubusercontent.com/arcolinuxb/arco-i3/master/archiso/packages.both"
 #build.sh
 oldname1="iso_name=arcolinux"
