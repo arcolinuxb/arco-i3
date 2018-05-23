@@ -246,7 +246,7 @@ termite
 transmission-gtk
 variety
 vlc
-zoom
+#zoom
 
 #conky
 #jq
@@ -514,15 +514,10 @@ arcolinux-wallpapers-git
 arcolinux-xfce-thunar-git
 
 
-#discord - ArcoLinux chat channel
-discord
-libc++
-libc++abi
-libc++experimental
-
 #Calamares installer
 calamares
 boost-libs
+arcolinuxb-calamares-i3-git
 
 #Missing applications if xfce is not installed
 xfce4-settings
@@ -532,6 +527,3 @@ xfce4-clipman-plugin
 xfce4-screenshooter
 xfce4-appfinder
 lxappearance
-
-#Calamares config
-arcolinuxb-calamares-i3-git
