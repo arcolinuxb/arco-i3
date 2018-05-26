@@ -224,7 +224,7 @@ dmenu
 evolution
 feh
 firefox
-flashplugin
+#flashplugin
 galculator
 geany
 gimp
@@ -315,7 +315,7 @@ dialog
 dmidecode
 evince
 file-roller
-filezilla
+#filezilla
 git
 gksu
 glances
@@ -387,7 +387,7 @@ zsh-completions
 zsh-syntax-highlighting
 
 #xfce4
-#gtk-xfce-engine
+gtk-xfce-engine
 xfce4
 #mousepad
 #xfce4-goodies
@@ -446,7 +446,7 @@ aurvote-git
 downgrade
 font-manager
 glxinfo
-google-talkplugin
+#google-talkplugin
 grub-customizer
 hardcode-fixer-git
 inxi

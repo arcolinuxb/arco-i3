@@ -50,8 +50,6 @@ echo "Phase 2 : Getting the latest updates for some important files"
 echo "################################################################## "
 echo "Moving to the tmp folder to work"
 cd /tmp/git-clone-arcolinux-iso/installation-scripts/
-echo "Removing calamares folder"
-rm -rf ../archiso/airootfs/etc/calamares 2> /dev/null
 echo "Removing old files/folders from folder"
 rm -rf ../archiso/airootfs/etc/skel/.* 2> /dev/null
 echo "getting .bashrc from arcolinux-root"
