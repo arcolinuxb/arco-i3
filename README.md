@@ -6,7 +6,7 @@
 
 # Follow installation tutorials on
 
-https://arcolinux.com/byoi-on-arcolinux-i3-only/
+https://arcolinuxd.com/byoi-create-arcolinuxb-i3-iso/
 
 # Websites
 
