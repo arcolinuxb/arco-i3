@@ -281,11 +281,11 @@ gnome-icon-theme
 #lightdm
 accountsservice
 lightdm
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
+#lightdm-gtk-greeter
+#lightdm-gtk-greeter-settings
 
 #login manager
-slim
+#slim
 
 #lx-applications
 #lxappearance-obconf
@@ -490,6 +490,8 @@ arcolinux-config-git
 arcolinux-geany-git
 arcolinux-i3wm-git
 arcolinux-keyring
+arcolinux-lightdm-gtk-greeter
+arcolinux-lightdm-gtk-greeter-settings
 arcolinux-local-git
 arcolinux-neofetch-git
 #arcolinux-neofetch-ascii-git
@@ -505,6 +507,7 @@ arcolinux-polybar-git
 arcolinux-rofi-git
 arcolinux-rofi-themes-git
 arcolinux-root-git
+arcolinux-slim
 arcolinux-slimlock-themes-git
 arcolinux-termite-themes-git
 #arcolinux-tint2-git
@@ -519,7 +522,7 @@ calamares
 boost-libs
 arcolinuxb-calamares-i3-git
 
-#Missing applications if xfce is not installed
+#Missing applications if xfce4 is not installed
 xfce4-settings
 xfce4-taskmanager
 xfce4-power-manager

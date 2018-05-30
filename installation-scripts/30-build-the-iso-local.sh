@@ -56,14 +56,14 @@ echo "getting .bashrc from arcolinux-root"
 wget https://raw.githubusercontent.com/arcolinux/arcolinux-root/master/root/.bashrc-latest -O ../archiso/airootfs/etc/skel/.bashrc
 echo ".bashrc copied to /etc/skel"
 echo
-echo "getting oblogout.conf from arcolinux-oblogout-themes"
-wget https://raw.githubusercontent.com/arcolinux/arcolinux-oblogout-themes/master/oblogout.conf.arcolinuxnew -O ../archiso/airootfs/etc/oblogout.conf
-echo "oblogout.conf copied"
-echo
-echo "getting slim.conf from arcolinux-slimlock-themes"
-wget https://raw.githubusercontent.com/arcolinux/arcolinux-slimlock-themes/master/slim.conf.arcolinuxnew -O ../archiso/airootfs/etc/slim.conf
-echo "slim.conf copied"
-echo
+#echo "getting oblogout.conf from arcolinux-oblogout-themes"
+#wget https://raw.githubusercontent.com/arcolinux/arcolinux-oblogout-themes/master/oblogout.conf.arcolinuxnew -O ../archiso/airootfs/etc/oblogout.conf
+#echo "oblogout.conf copied"
+#echo
+#echo "getting slim.conf from arcolinux-slimlock-themes"
+#wget https://raw.githubusercontent.com/arcolinux/arcolinux-slimlock-themes/master/slim.conf.arcolinuxnew -O ../archiso/airootfs/etc/slim.conf
+#echo "slim.conf copied"
+#echo
 echo "BYOI - getting the files for this specific desktop"
 rm ../archiso/packages.both
 wget $githuburl -O ../archiso/packages.both
