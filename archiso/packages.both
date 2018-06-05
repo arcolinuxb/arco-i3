@@ -486,6 +486,7 @@ arcolinux-bin-git
 #arcolinux-config-cinnamon-git
 arcolinux-config-git
 #arcolinux-config-gnome-git
+#arcolinux-config-mate-git
 #arcolinux-conky-collection-git
 #arcolinux-docs-git
 #arcolinux-faces-git
@@ -499,6 +500,8 @@ arcolinux-neofetch-git
 #arcolinux-neofetch-ascii-git
 arcolinux-nitrogen-git
 #arcolinux-oblogout
+#arcolinux-oblogout-awesome
+#arcolinux-oblogout-bspwm
 #arcolinux-oblogout-themes-git
 #arcolinux-obmenu-generator-git
 #arcolinux-openbox-configs-git
