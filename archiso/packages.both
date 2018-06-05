@@ -388,7 +388,7 @@ zsh-syntax-highlighting
 
 #xfce4
 gtk-xfce-engine
-xfce4
+#xfce4
 #mousepad
 #xfce4-goodies
 
@@ -532,4 +532,5 @@ xfce4-power-manager
 xfce4-clipman-plugin
 xfce4-screenshooter
 xfce4-appfinder
+xfce4-notifyd
 lxappearance
