@@ -483,7 +483,9 @@ arcolinux-arc-themes-git
 arcolinux-bin-git
 #arcolinux-bspwm-git
 #arcolinux-common-git
+#arcolinux-config-cinnamon-git
 arcolinux-config-git
+#arcolinux-config-gnome-git
 #arcolinux-conky-collection-git
 #arcolinux-docs-git
 #arcolinux-faces-git
