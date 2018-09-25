@@ -503,6 +503,7 @@ arcolinux-nitrogen-git
 #arcolinux-oblogout-bspwm
 #arcolinux-oblogout-themes-git
 #arcolinux-obmenu-generator-git
+#arcolinux-obmenu-generator-minimal-git
 #arcolinux-openbox-configs-git
 #arcolinux-openbox-themes-git
 #arcolinux-pipemenus-git
@@ -519,6 +520,7 @@ arcolinux-termite-themes-git
 #arcolinux-tint2-themes-git
 arcolinux-variety-git
 arcolinux-wallpapers-git
+#arcolinux-xfce4-panel-profiles-git
 arcolinux-xfce-thunar-git
 
 
