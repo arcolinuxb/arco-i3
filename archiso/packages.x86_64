@@ -285,9 +285,10 @@ lightdm
 
 
 #lx-applications
+#lxappearance
 lxappearance-gtk3
-#lxappearance-obconf-gtk3
 #lxappearance-obconf
+#lxappearance-obconf-gtk3
 lxrandr
 
 #openbox
@@ -447,7 +448,7 @@ mintstick-git
 neofetch
 oh-my-zsh-git
 #oomox
-package-query
+#package-query
 pamac-aur
 peek
 pulseaudio-equalizer-ladspa
@@ -462,7 +463,7 @@ urxvt-resize-font-git
 wttr
 yad
 yay-bin
-yaourt
+#yaourt
 
 #############################
 #Games
