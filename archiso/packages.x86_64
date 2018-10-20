@@ -588,6 +588,7 @@ xfce4-taskmanager
 
 #Needed for Calamares installer
 calamares
+arcolinuxb-calamares-i3-git
 ckbcomp
 networkmanager
 upower
@@ -603,4 +604,3 @@ squashfs-tools
 plasma-framework
 hwinfo
 
-arcolinuxb-calamares-i3-git
