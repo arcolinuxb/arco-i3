@@ -312,6 +312,7 @@ dconf-editor
 dialog
 dmidecode
 evince
+expac
 file-roller
 #filezilla
 git
@@ -339,7 +340,6 @@ jsoncpp
 libmtp
 laptop-detect
 lsb-release
-lxrandr
 mlocate
 nomacs
 p7zip
@@ -378,6 +378,7 @@ xapps
 #xcape
 xdg-desktop-portal-gtk
 #xfburn
+youtube-dl
 zenity
 #zsh
 #zsh-completions
