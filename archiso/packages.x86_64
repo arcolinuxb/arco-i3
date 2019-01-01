@@ -492,7 +492,7 @@ arcolinux-config-git
 #arcolinux-config-mate-git
 #arcolinux-config-plasma-git
 #arcolinux-config-xmonad-git
-arcolinux-conky-collection-git
+#arcolinux-conky-collection-git
 #arcolinux-docs-git
 #arcolinux-faces-git
 arcolinux-fonts-git
