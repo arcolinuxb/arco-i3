@@ -552,7 +552,7 @@ xfce4-terminal
 xfconf
 xfdesktop
 xfwm4
-xfwm4-themes
+#xfwm4-themes
 
 
 #xfce4-goodies group content
