@@ -438,7 +438,7 @@ mkinitcpio-openswap
 
 #utilities
 aurvote-git
-#conky-lua-archers
+conky-lua-archers
 downgrade
 font-manager
 glxinfo
