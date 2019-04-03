@@ -490,6 +490,7 @@ arcolinux-config-git
 #arcolinux-config-gnome-git
 #arcolinux-config-mate-git
 #arcolinux-config-plasma-git
+#arcolinux-config-xmobar-git
 #arcolinux-config-xmonad-git
 #arcolinux-conky-collection-git
 #arcolinux-docs-git
