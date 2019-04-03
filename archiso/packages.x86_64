@@ -381,9 +381,9 @@ xapps
 xdg-desktop-portal-gtk
 youtube-dl
 zenity
-#zsh
-#zsh-completions
-#zsh-syntax-highlighting
+zsh
+zsh-completions
+zsh-syntax-highlighting
 
 
 #############################
