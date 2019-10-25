@@ -513,7 +513,7 @@ arcolinux-config-git
 #arcolinux-config-plasma-git
 #arcolinux-config-xmobar-git
 #arcolinux-config-xmonad-git
-#arcolinux-conky-collection-git
+arcolinux-conky-collection-git
 #arcolinux-docs-git
 #arcolinux-faces-git
 arcolinux-fonts-git
@@ -547,7 +547,7 @@ arcolinux-nitrogen-git
 #arcolinux-obmenu-generator-minimal-git
 #arcolinux-openbox-configs-git
 #arcolinux-openbox-themes-git
-#arcolinux-pipemenus-git
+arcolinux-pipemenus-git
 #arcolinux-plank-git
 #arcolinux-plank-themes-git
 arcolinux-polybar-git
