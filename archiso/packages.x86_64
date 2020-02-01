@@ -163,7 +163,6 @@ libdvdcss
 pulseaudio
 pulseaudio-alsa
 pavucontrol
-volumeicon
 
 ###bluetooth
 blueberry
@@ -299,6 +298,7 @@ bash-completion
 #catfish
 cronie
 dconf-editor
+dex
 dmidecode
 #evince
 expac
@@ -674,6 +674,7 @@ picom
 
 #mugshot
 #menulibre
+volumeicon
 
 ###########################################################################
 #                         ARCOLINUX ISO SPECIFIC
