@@ -43,7 +43,7 @@ echo
 	echo "Bulding version                        : "$arcolinuxVersion
 	echo "Iso label                              : "$isoLabel
 	echo "Do you have the right archiso version? : "$archisoVersion
-	echo "Build folder                            : "$buildFolder
+	echo "Build folder                           : "$buildFolder
 	echo "Out folder                             : "$outFolder
 	echo "################################################################## "		
 
@@ -238,7 +238,7 @@ echo
 #echo "################################################################## "
 #echo
 
-	#echo "Cleaning the cache  from /var/cache/pacman/pkg/"
+	#echo "Cleaning the cache from /var/cache/pacman/pkg/"
 	#yes | sudo pacman -Scc
 
 echo
@@ -251,7 +251,7 @@ echo "################################################################## "
 echo
 
 	cd $buildFolder/archiso/
-	sudo ./build.sh
+	sudo mkarchiso -v -w $buildFolder $buildFolder/archiso/
 
 echo
 echo "################################################################## "
