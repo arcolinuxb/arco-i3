@@ -29,7 +29,7 @@ echo
 	desktop="i3"
 	dmDesktop="i3"
 
-	arcolinuxVersion='v21.03.11'
+	arcolinuxVersion='v21.05.1'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
