@@ -914,3 +914,7 @@ xfce4-taskmanager
 ###########################################################################
 polybar
 autorandr
+
+# remove arcolinux-i3wm-git and select just one underneath
+#arcolinux-i3wm-db-nemesis-git
+#arcolinux-i3wm-forest-git
