@@ -600,6 +600,7 @@ arcolinux-i3wm-git
 #arcolinux-lxqt-git
 #arcolinux-mate-git
 #arcolinux-newm-git
+#arcolinux-nimdow-git
 #arcolinux-openbox-git
 #arcolinux-openboxb-git
 #arcolinux-openbox-xtended-git
@@ -768,6 +769,7 @@ arcob-calamares-config-i3-git
 #arcob-calamares-config-marswm-git
 #arcob-calamares-config-mate-git
 #arcob-calamares-config-newm-git
+#arcob-calamares-config-nimdow-git
 #arcob-calamares-config-openbox-git
 #arcob-calamares-config-pantheon-git
 #arcob-calamares-config-plasma-git
@@ -935,3 +937,4 @@ autorandr
 # remove arcolinux-i3wm-git and select just one underneath
 #arcolinux-i3wm-db-nemesis-git
 #arcolinux-i3wm-forest-git
+arcolinux-powermenu-git
